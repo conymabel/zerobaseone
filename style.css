@@ -1,0 +1,105 @@
+header{
+    text-align: center;
+    margin-left: 370px;
+    margin-right: 370px;
+    padding-left: 34px;
+    font-size: 40px;
+    font-family: "Jersey 10", sans-serif;
+    letter-spacing: 30px;
+    background-color: #0D1821;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border-bottom: 10px;
+    border-top: 10px;
+}
+body{
+    background-color: #F0F4EF;
+}
+
+#REDES img{
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+}
+
+p{
+    font-family: "IBM Plex Sans";
+    text-align: justify;
+    background-color: #B4CDED;
+    margin-left: 447px;
+    margin-right: 447px;
+    padding: 9px;
+    border-radius: 5px;
+}
+
+h5{
+    text-align: center;
+    font-size: 15px;
+    color: #0D1821;
+    font-family: "IBM Plex Sans";
+}
+
+ul{
+    list-style-type: disc;
+    list-style-position:inside;
+    float: left;
+    font-family: "IBM Plex Sans" ;
+}
+
+ol{
+    list-style-type:decimal-leading-zero;
+    list-style-position:inside;
+    text-align: center;
+    align-content: center;
+}
+
+h3{
+    text-align: center;
+    font-family: "DM Sans", sans-serif;
+    font-size: 25px;
+    color: #F0F4EF;
+    background-color: #344966;
+    margin-left: 630px;
+    margin-right: 630px;
+    border-radius: 5px;
+}
+
+.imagen-1{
+    height: 300px;
+    border-radius: 2px;
+    box-shadow: 0 0 9px #0D1821;
+}
+
+.imagen-2{
+    height: 250px;
+    border-radius: 2px;
+    box-shadow: 0 0 9px #0D1821;
+}
+
+.imagen-3{
+    height: 230px;
+    width: 390px;
+    border-radius: 2px;
+    box-shadow: 0 0 9px #0D1821;
+    margin-top: 5px;
+}
+
+div#lista1{
+    width: 400px;
+    margin-left: 300px;
+    padding-top: 40px;
+}
+
+form p{
+    background-color: #F0F4EF;
+    text-align: center;
+}
+footer{
+    background-color: #F0F4EF;
+    margin-top: 19px ;
+}
+footer p{
+    background-color: #F0F4EF;
+    text-shadow:0 0 3px #0D1821;
+    text-align: center;
+}   
